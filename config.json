@@ -1,0 +1,37 @@
+{
+  "telegram_bot_token": "SEU_TOKEN_AQUI",
+  "telegram_chat_id": "SEU_CHAT_ID_AQUI",
+  "check_interval_seconds": 60,
+  "cryptos_to_monitor": [
+    {
+      "symbol": "SOLUSDT",
+      "alerts": [
+        {
+          "type": "low",
+          "price": 140.0,
+          "notes": "Analisat possivel aquisição",
+          "sound": "sons/BtcSubindo.wav",
+          "triggered_now": false
+        }
+      ]
+    },
+    {
+      "symbol": "BTCUSDT",
+      "alerts": [
+        {
+          "notes": "",
+          "sound": "sons/BtcSubindo.wav",
+          "type": "status",
+          "value": "SOBRECOMPRADO (RSI >= 70)",
+          "triggered_now": false
+        },
+        {
+          "notes": "",
+          "sound": "sons/auto.wav",
+          "type": "low",
+          "price": 1000.0
+        }
+      ]
+    }
+  ]
+}
