@@ -1,37 +1,61 @@
 {
   "telegram_bot_token": "SEU_TOKEN_AQUI",
   "telegram_chat_id": "SEU_CHAT_ID_AQUI",
-  "check_interval_seconds": 60,
+  "check_interval_seconds": 300,
   "cryptos_to_monitor": [
-    {
-      "symbol": "SOLUSDT",
-      "alerts": [
-        {
-          "type": "low",
-          "price": 140.0,
-          "notes": "Analisat possivel aquisição",
-          "sound": "sons/BtcSubindo.wav",
-          "triggered_now": false
-        }
-      ]
-    },
     {
       "symbol": "BTCUSDT",
       "alerts": [
         {
           "notes": "",
-          "sound": "sons/BtcSubindo.wav",
-          "type": "status",
-          "value": "SOBRECOMPRADO (RSI >= 70)",
+          "sound": "sons/auto.wav",
+          "type": "low",
+          "price": 1000.0,
           "triggered_now": false
         },
         {
           "notes": "",
-          "sound": "sons/auto.wav",
-          "type": "low",
-          "price": 1000.0
+          "sound": "sons/Alerta.wav",
+          "type": "status",
+          "value": "MACD: Cruzamento de Baixa",
+          "triggered_now": false
         }
       ]
+    },
+    {
+      "symbol": "LINKUSDT",
+      "alerts": [
+        {
+          "notes": "",
+          "sound": "sons/link.wav",
+          "type": "low",
+          "price": 14.5,
+          "triggered_now": false
+        },
+        {
+          "notes": "Preço de aquisição 125",
+          "sound": "sons/cruzamentoBaixa.wav",
+          "type": "status",
+          "value": "MACD: Cruzamento de Baixa",
+          "triggered_now": false
+        }
+      ]
+    },
+    {
+      "symbol": "ETHUSDT",
+      "alerts": [
+        {
+          "notes": "",
+          "sound": "sons/sobrecomprado.wav",
+          "type": "status",
+          "value": "SOBRECOMPRADO (RSI >= 70)",
+          "triggered_now": true
+        }
+      ]
+    },
+    {
+      "symbol": "SOLUSDT",
+      "alerts": []
     }
   ]
 }

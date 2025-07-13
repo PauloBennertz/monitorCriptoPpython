@@ -1,7 +1,283 @@
 [
   {
-    "timestamp": "2025-07-09 17:08:55",
+    "timestamp": "2025-07-12 08:47:34",
     "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 08:49:12",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 09:02:22",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 09:02:22",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 09:40:10",
+    "symbol": "LINKUSDT",
+    "trigger": "LOW @ $16.00",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 09:40:10",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 09:40:10",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 09:41:20",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 09:41:20",
+    "symbol": "LINKUSDT",
+    "trigger": "LOW @ $16.00",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 09:41:21",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 09:46:22",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 09:46:23",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 09:48:37",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 09:48:38",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 10:06:57",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 10:06:58",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 10:52:38",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 10:52:39",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 13:01:51",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 13:01:52",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 13:07:58",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 13:07:58",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 13:17:59",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 13:18:00",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 13:33:12",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 13:33:12",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 14:18:00",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 14:18:01",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 21:28:35",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 21:28:35",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 21:30:15",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 21:30:15",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 21:34:48",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-12 21:34:49",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-13 01:10:28",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-13 01:10:28",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-13 04:57:21",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-13 04:57:21",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-13 04:58:03",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-13 04:58:04",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-13 05:06:01",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-13 05:06:01",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-13 05:10:15",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-13 05:10:16",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-13 05:12:47",
+    "symbol": "ETHUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-13 05:12:48",
+    "symbol": "BTCUSDT",
+    "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
+    "notes": ""
+  },
+  {
+    "timestamp": "2025-07-13 05:14:14",
+    "symbol": "ETHUSDT",
     "trigger": "Status: SOBRECOMPRADO (RSI >= 70)",
     "notes": ""
   }
